@@ -1,0 +1,10 @@
+package com.cs.servlet;
+
+import javax.servlet.http.HttpServlet;
+
+
+
+public class FlowerServlet extends HttpServlet {
+
+	service
+}
